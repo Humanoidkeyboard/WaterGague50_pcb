@@ -1,5 +1,0 @@
-Removed Pin From Net: NetName=3.3V Pin=R4-2
-Removed Pin From Net: NetName=VIN Pin=R5-2
-Removed Member From Class: ClassName=Sheet1 Member=R4
-Removed Member From Class: ClassName=Sheet1 Member=R5
-Added Pin To Net: NetName=3.3V Pin=T1-1

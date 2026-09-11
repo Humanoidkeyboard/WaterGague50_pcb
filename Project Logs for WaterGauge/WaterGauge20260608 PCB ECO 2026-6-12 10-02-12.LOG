@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=SELECT_EN2 Pin=U1-11
-Removed Pin From Net: NetName=SELECT_EN0 Pin=U1-13
-Added Pin To Net: NetName=SELECT_EN0 Pin=U1-11
-Added Pin To Net: NetName=SELECT_EN2 Pin=U1-13
