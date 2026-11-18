@@ -105,6 +105,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LLTVBYJI
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for WaterGauge\Design Rule Check - WaterGauge20260627.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
